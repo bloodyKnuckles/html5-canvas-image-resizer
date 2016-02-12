@@ -1,0 +1,25 @@
+{
+  "name": "html5-canvas-image-resizer",
+  "version": "0.1.0",
+  "description": "A browser module that uses the HTML5 canvas element to resize images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloodyKnuckles/html5-canvas-image-resizer.git"
+  },
+  "keywords": [
+    "HTML5",
+    "canvas",
+    "image",
+    "resize"
+  ],
+  "author": "Jay Scott ANDERSON",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bloodyKnuckles/html5-canvas-image-resizer/issues"
+  },
+  "homepage": "https://github.com/bloodyKnuckles/html5-canvas-image-resizer#readme"
+}
