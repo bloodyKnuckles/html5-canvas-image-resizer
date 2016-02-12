@@ -1,6 +1,6 @@
 {
   "name": "html5-canvas-image-resizer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A browser module that uses the HTML5 canvas element to resize images.",
   "main": "index.js",
   "scripts": {
