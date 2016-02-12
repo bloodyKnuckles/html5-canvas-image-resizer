@@ -5,7 +5,9 @@ Use:
 
 var resizeImage = require('html5-canvas-image-resizer')
 var resizer = resizeImage(this.document.createElement('canvas'))
-resizer(imgsrc, width, height, imgtype, callback)
+resizer(imgsrc, width, height, imgtype, function (dataURL) {
+  // do something with base64 image src
+})
 
 */
 
